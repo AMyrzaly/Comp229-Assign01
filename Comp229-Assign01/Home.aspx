@@ -2,17 +2,17 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <html lang="en">
+
     <head>
         <meta charset="UTF-8">
-        <title> Assignment 4 </title>
-        <link rel="stylesheet" href="style.css">
+        <title> Home page(Landing Page) </title>
+        <link href="Content/style.css" rel="stylesheet" />
     	<style type="text/css"></style>
     </head>
     <body>
         <div id="allPage">
         <header>
-            <img alt="Logo" src="header.jpg" class="header">
+            <img alt="Logo" src="Pictures/header.jpg" class="header"/>
             <img alg="Titel" src="header1.png" class="header1">
                 <ul class="navigater">
                     <li><a href="Home.html">Home</a></li>
