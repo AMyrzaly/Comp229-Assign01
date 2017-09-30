@@ -11,7 +11,28 @@
         <div id="allPage">
         <img alt="Logo" src="Pictures/header.jpg" class="header" />
         <main>
-			<h2>Fill the form below and we will contact you as soon as possible!</h2>
+			<h2>My contact information ! I will be happy to answer all your questions !</h2>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>My Phone number:</td>
+                        <td>+1(647)567-7669</td>
+                    </tr>
+                    <tr>
+                        <td>E-mail:</td>
+                        <td>amyrzaly@my.centennialcollege.ca</td>
+                    </tr>
+                    <tr>
+                        <td>Social networks:</td>
+                        <td>•	<a href="https://www.facebook.com/profile.php?id=100002112147959">FaceBook</a> <br />
+                            •	<a href="https://www.instagram.com/imba_lol/?hl=en">Instagram</a> <br />
+                            •	<a href="https://github.com/AMyrzaly">GitHub</a> <br />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br /><br />
+
 			<form>
             <table>	
 			<tbody>
@@ -32,17 +53,6 @@
 				<td> <input name="txtPhoneNo" size="30" tabindex="4" type="tel" placeholder="(555)-555-5555"></td>
 			</tr>
 			<tr>
-				<td>Select Car:</td>
-				<td> 
-		<select name="lstCourses" multiple="multiple" size="4" tabindex="35">
-		<option value="Lamborghini Aventador">Lamborghini Aventador</option>
-		<option value="C-Class C 63 AMG">C-Class C 63 AMG</option>
-		<option value="Rolls-Royce">Rolls-Royce</option>
-		<option value="Lotus Evora">Lotus Evora</option>
-		<option value="Ferrari 458 APERTA">Ferrari 458 APERTA</option>
-		</select></td>
-			</tr>
-			<tr>
 				<td>&nbsp;Special Requests:
 				</td>
 				<td>
@@ -53,7 +63,7 @@
 		</table>
 		<input name="Submit" type="submit" value="Submit form">
 		<input name="Reset" type="reset" value="Resent form">
-		</form.
+		</form>
         </main>
 
         <footer>
