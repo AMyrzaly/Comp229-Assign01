@@ -61,7 +61,7 @@
 			</tr>
 		</tbody>
 		</table>
-		<input name="Submit" type="submit" value="Submit form">
+		<input name="Submit" type="submit" value="Submit form" onclick="href="Home.aspx"">
 		<input name="Reset" type="reset" value="Resent form">
 		</form>
         </main>
