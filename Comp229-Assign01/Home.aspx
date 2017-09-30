@@ -11,25 +11,26 @@
     </head>
     <body>
         <div id="allPage">
-
+        <img alt="Logo" src="Pictures/header.jpg" class="header" />
         <main>
             <table>
                 <tr>
             <td><img src="Pictures/Logo.jpg" alt="Logo" class="founder"/></td>
             <td>
                 <h2>WELCOME</h2>
-                <p>Thank you for visiting our website. We specialize in the purchase</p>
-                <p>and sale of used cars in the whole Canada<br><br>
+                <p>Thank you for visiting my website. I am glad to see you here</p>
+                <p>And this web site will represent a little bit about me.<br><br>
 
-Whether you are relocating within your area, searching for an investment property, 
-or leaving for another area, my experience can help you make the right decisions.<br><br>
+Small description:  
+I am a student, who currently enrolled in the Software Engineering Technology Advanced Diploma program at Centennial College.<br><br>
 
-Please contact us or take your time exploring my website and make use of the resources available to you.<br><br>
+A self-motivated person, highly capable of learning new skills.<br><br>
 
-If you have any questions, let us know and we will be happy to help you!<br><br>
+If you have any questions or for more details, let me know and I will be happy to talk to you!<br><br>
 
-Sebastian Baldwin<br>
-“Your Dealer for Life”</p>
+Best regards!<br>
+
+Abubakir Myrzaly<br>
             </td>
                 </tr>
             </table>
@@ -37,12 +38,11 @@ Sebastian Baldwin<br>
 
         <footer>
             <center>
-	    <a href="Home.html">Home</a> | 
-        <a href="VL.html">Vehicle Listing</a> | 
-        <a href="SB.html">SwitchBoard</a> |
-		<a href="Contacts.html">Contacts</a> | 
-        <a href="SMC.html">Site Map and Credits</a>
-        <br><br>© Copyrights - Abubakir Myrzaly #300931945 - COMP-213
+
+	    <a runat="server" href="Home.aspx">Home</a> | 
+        <a runat="server" href="~/About">About</a> | 
+        <a runat="server" href="~/Contact">Contact</a> 
+        <br><br>© Copyrights - Abubakir Myrzaly
             </center>
         </footer>
         </div>
