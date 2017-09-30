@@ -51,7 +51,7 @@
 				<td>&nbsp;Special Requests:
 				</td>
 				<td>
-					<textarea cols="50" name="txtSpecialReq" rows="7" tabindex="37" placeholder="---Please let us know more details about your question!---"></textarea>
+					<textarea cols="50" name="txtSpecialReq" rows="7" tabindex="37" placeholder="---Please enter your full name, phone number and E-mail to contact you, thanks!---"></textarea>
 				</td>
 			</tr>
 		</tbody>
@@ -65,7 +65,7 @@
             <center>
 	    <a runat="server" href="Home.aspx">Home</a> | 
         <a runat="server" href="About.aspx">About</a> | 
-        <a runat="server" href="~/Contact">Contact</a> 
+        <a runat="server" href="Contact.aspx">Contact</a> 
         <br><br>© Copyrights - Abubakir Myrzaly
             </center>
         </footer>

@@ -41,7 +41,7 @@ Abubakir Myrzaly<br>
 
 	    <a runat="server" href="Home.aspx">Home</a> | 
         <a runat="server" href="About.aspx">About</a> | 
-        <a runat="server" href="~/Contact">Contact</a> 
+        <a runat="server" href="Contact.aspx">Contact</a> 
         <br><br>© Copyrights - Abubakir Myrzaly
             </center>
         </footer>
