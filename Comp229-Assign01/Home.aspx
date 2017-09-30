@@ -11,22 +11,11 @@
     </head>
     <body>
         <div id="allPage">
-        <header>
-            <img alt="Logo" src="Pictures/header.jpg" class="header"/>
-            <img alg="Titel" src="header1.png" class="header1">
-                <ul class="navigater">
-                    <li><a href="Home.html">Home</a></li>
-                    <li><a href="VL.html">Vehicle Listing</a></li>
-                    <li><a href="SB.html">SwitchBoard</a></li>
-                    <li><a href="Contacts.html">Contacts</a></li>
-                    <li><a href="SMC.html">Site Map and Credits</a></li>
-                </ul>
-        </header>
 
         <main>
             <table>
                 <tr>
-            <td><img alt="Founder" src="founder.jpg" class="founder"></td>
+            <td><img src="Pictures/Logo.jpg" alt="Logo" class="founder"/></td>
             <td>
                 <h2>WELCOME</h2>
                 <p>Thank you for visiting our website. We specialize in the purchase</p>
