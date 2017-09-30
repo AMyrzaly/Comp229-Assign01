@@ -40,7 +40,7 @@ Abubakir Myrzaly<br>
             <center>
 
 	    <a runat="server" href="Home.aspx">Home</a> | 
-        <a runat="server" href="~/About">About</a> | 
+        <a runat="server" href="About.aspx">About</a> | 
         <a runat="server" href="~/Contact">Contact</a> 
         <br><br>© Copyrights - Abubakir Myrzaly
             </center>

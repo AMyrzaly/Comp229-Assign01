@@ -120,6 +120,11 @@ table {
     width: 350px;
 }
 
+.founderAbout {
+    height: 300px;
+    width: 500px;
+}
+
 footer {
     background-color: #808080;
     background-image: linear-gradient(to top,#ffffff,#808080);
