@@ -10,40 +10,51 @@
     </head>
     <body>
         <div id="allPage">
-        <img alt="Logo" src="Pictures/header.jpg" class="header" />
-        <main>
-            <table>
-                <tr>
-            <td>
-                <img src="Pictures/myself.jpg" class="founderAbout" /></td>
-            <td>
-                <h2>About me</h2>
-                <p>Here a little bit more about me...<br><br>
+            <img alt="Logo" src="Pictures/header.jpg" class="header" />
+            <main>
+                <table>
+                    <tr>
+                        <td>
+                            <img src="Pictures/myself.jpg" class="founderAbout" />
+                        </td>
+                        <td>
+                            <h2>About me</h2>
+                            <p>
+                                Here a little bit more about me...<br>
+                                <br>
+                                I am:  
+                                Detail-oriented individual with skills in utilizing a variety of platforms; effective communication skills to explain complex software issues to customers and clients. Skills in object-oriented software design, user-oriented interface design, algorithm concepts, and data management tools.<br>
+                                <br>
+                                A self-motivated person, highly capable of learning new skills.<br>
+                                <br>
+                                •	Exemplary problem-solving skills; able to identify problems and implement corrective processes.
+                                <br />
+                                •	Tolerant and flexible, adjusts to different situations.<br />
+                                •	Capable of working with people of all ages, races and ethnicities.
+                                <br />
+                                •	Languages: English, Russian, Kazakh
+                                <br>
+                                <br>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><h3>Job experience:</h3></td>
+                        <td>Google</td>
+                        <td>Web deloper</td>
+                        <td>2 year</td>
+                    </tr>
+                </table>
+            </main>
 
-I am:  
-Detail-oriented individual with skills in utilizing a variety of platforms; effective communication skills to explain complex software issues to customers and clients. Skills in object-oriented software design, user-oriented interface design, algorithm concepts, and data management tools.<br><br>
-
-A self-motivated person, highly capable of learning new skills.<br><br>
-
-•	Exemplary problem-solving skills; able to identify problems and implement corrective processes. <br />
-•	Tolerant and flexible, adjusts to different situations.<br />
-•	Capable of working with people of all ages, races and ethnicities. <br />
-•	Languages: English, Russian, Kazakh
-<br><br>
-            </td>
-                </tr>
-            </table>
-        </main>
-
-        <footer>
-            <center>
+            <footer>
+                <center>
 
 	    <a runat="server" href="Home.aspx">Home</a> | 
         <a runat="server" href="About.aspx">About</a> | 
         <a runat="server" href="Call.aspx">Contact</a> 
         <br><br>© Copyrights - Abubakir Myrzaly
             </center>
-        </footer>
+            </footer>
         </div>
     </body>
 
